@@ -1,0 +1,29 @@
+/** @format */
+
+.title {
+  color:var(--primary);
+	text-align: center;
+  box-shadow: 0 3px 0 var(--shadow);
+  padding: 16px;
+  margin-top: 0;
+  
+}
+
+.title-second-word{
+  color: var(--secondary);
+}
+
+.social {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-right: 60px;
+	margin-top: 80px;
+	color: #000000;
+}
+.dev{
+  color: blue;
+  
+}
+
